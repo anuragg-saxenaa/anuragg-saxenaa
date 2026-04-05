@@ -13,7 +13,7 @@
 ```typescript
 const anurag = {
   role: "Senior Full-Stack & Cloud-Native Engineer | Java Architect",
-  experience: "13+ years",
+  level: "Principal / Staff Engineer",
   coreExpertise: [
     "Java / Spring Ecosystem",
     "GraphQL · gRPC · REST APIs",
@@ -34,7 +34,7 @@ const anurag = {
 
 ---
 
-## ☕ Java & Spring Framework Expertise — 13+ Years
+## ☕ Java & Spring Framework — Deep Expertise
 
 | Layer | Technologies |
 |---|---|
@@ -46,7 +46,7 @@ const anurag = {
 | **ORM / Data** | Hibernate / JPA, Spring Data JPA, R2DBC (Reactive), Redis |
 | **Build & Test** | Maven, Gradle, JUnit 5, Mockito, Testcontainers, Cucumber |
 
-[![Java](https://img.shields.io/badge/Java_13%2B_Years-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/anuragg-saxenaa)
+[![Java](https://img.shields.io/badge/Java-Principal_Level-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/anuragg-saxenaa)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/anuragg-saxenaa)
 [![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/anuragg-saxenaa)
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://github.com/anuragg-saxenaa)
@@ -233,7 +233,7 @@ Building production-grade **AI agent systems** across the full stack — from pr
 - 🌐 Working with **GraphQL + gRPC + Spring** for modern API design
 - ☁️ Deploying cloud-native workloads across **GCP / AWS / Azure**
 - 🔬 Contributing to **open-source AI agent apps** (MCP, LangGraph, AgCoding)
-- ☕ Applying **13+ years of Java/Spring** expertise to AI-native backends
+- ☕ Bringing **deep Java/Spring expertise** to AI-native backends
 - 🏆 **Top contributor** on an open-source project with **2,000+ GitHub stars**
 - 💬 Ask me about **Java · Spring · GraphQL · gRPC · Claude · MCP · AI Agents · Cloud**
 
