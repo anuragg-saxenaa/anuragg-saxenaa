@@ -26,7 +26,7 @@ const anurag = {
     agents:    ["Claude Code", "OpenAI Codex", "AgCoding Agent", "LangGraph", "AutoGen"],
     protocols: ["MCP (Model Context Protocol)", "RAG Pipelines", "Agentic Workflows"],
   },
-  openSource: "Top contributor on 2,000+ starred project · Building second-brain-mcp 🧠",
+  openSource: "Top contributor on 2,000+ starred project · Building second-brain-mcp",
   philosophy: "Solve real problems. Ship fast. Open source everything.",
   openTo: ["Collaborations", "Contributions", "Feedback"],
 };
