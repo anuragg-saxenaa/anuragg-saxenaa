@@ -1,4 +1,4 @@
-content: <div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A000&center=true&vCenter=true&width=750&lines=Senior+Full-Stack+%26+Java+Architect;13%2B+Years+%7C+Spring+Boot+%7C+Microservices;AI+%2F+LLM+Tooling+%7C+MCP+Integrations;Cloud-Native+%7C+GCP+%7C+AWS+%7C+Azure;Building+second-brain-mcp+%F0%9F%A7%A0" alt="Typing SVG" />
 
@@ -14,7 +14,7 @@ content: <div align="center">
 
 ## 🧠 About Me
 
-```typescript
+` ` `typescript
 const anurag = {
   role: "Senior Full-Stack & Cloud-Native Engineer | Java Architect",
   level: "Principal / Staff Engineer",
@@ -35,7 +35,7 @@ const anurag = {
   philosophy: "Solve real problems. Ship fast. Open source everything.",
   openTo: ["Collaborations", "Contributions", "Feedback"],
 };
-```
+` ` `
 
 ---
 
