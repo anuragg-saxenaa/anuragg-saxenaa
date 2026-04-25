@@ -1,10 +1,14 @@
-# Anurag Saxena · anuragg-saxenaa
+content: <div align="center">
 
-### Senior Full-Stack Engineer · Java Architect · AI/LLM Tooling · Open Source
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A000&center=true&vCenter=true&width=750&lines=Senior+Full-Stack+%26+Java+Architect;13%2B+Years+%7C+Spring+Boot+%7C+Microservices;AI+%2F+LLM+Tooling+%7C+MCP+Integrations;Cloud-Native+%7C+GCP+%7C+AWS+%7C+Azure;Building+second-brain-mcp+%F0%9F%A7%A0" alt="Typing SVG" />
+
+# Anurag Saxena
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/rag_sax)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.arrayindex.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragg.saxenaa@gmail.com)
+
+</div>
 
 ---
 
@@ -14,6 +18,7 @@
 const anurag = {
   role: "Senior Full-Stack & Cloud-Native Engineer | Java Architect",
   level: "Principal / Staff Engineer",
+  experience: "13+ years",
   coreExpertise: [
     "Java / Spring Ecosystem",
     "GraphQL · gRPC · REST APIs",
@@ -22,8 +27,8 @@ const anurag = {
   ],
   cloudPlatforms: ["GCP", "AWS", "Azure"],
   aiTooling: {
-    models:    ["Claude (Anthropic)", "OpenAI GPT-4", "Hermes (Nous Research)", "OpenClaw"],
-    agents:    ["Claude Code", "OpenAI Codex", "AgCoding Agent", "LangGraph", "AutoGen"],
+    models:    ["Claude (Anthropic)", "OpenAI GPT-4o", "Gemini", "Hermes (Nous Research)", "OpenClaw"],
+    agents:    ["Claude Code", "OpenAI Codex", "AgCoding Agent", "LangGraph", "AutoGen", "CrewAI"],
     protocols: ["MCP (Model Context Protocol)", "RAG Pipelines", "Agentic Workflows"],
   },
   openSource: "Top contributor on 2,000+ starred project · Building second-brain-mcp",
@@ -34,7 +39,9 @@ const anurag = {
 
 ---
 
-## ☕ Java & Spring Framework — Deep Expertise
+## ☕ Java & Spring Framework — 13+ Years Deep Expertise
+
+<div align="center">
 
 | Layer | Technologies |
 |---|---|
@@ -46,6 +53,8 @@ const anurag = {
 | **ORM / Data** | Hibernate / JPA, Spring Data JPA, R2DBC (Reactive), Redis |
 | **Build & Test** | Maven, Gradle, JUnit 5, Mockito, Testcontainers, Cucumber |
 
+</div>
+
 [![Java](https://img.shields.io/badge/Java-Principal_Level-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/anuragg-saxenaa)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/anuragg-saxenaa)
 [![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/anuragg-saxenaa)
@@ -56,11 +65,15 @@ const anurag = {
 
 ## ☁️ Cloud Platforms
 
+<div align="center">
+
 | Platform | Services & Expertise |
 |---|---|
 | **GCP** | GKE, Cloud Run, Cloud Functions, Pub/Sub, BigQuery, Vertex AI, Firestore |
 | **AWS** | ECS, Lambda, API Gateway, RDS, SQS/SNS, S3, Bedrock, CloudFormation |
 | **Azure** | AKS, Azure Functions, Service Bus, Cosmos DB, Azure OpenAI, DevOps Pipelines |
+
+</div>
 
 [![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/anuragg-saxenaa)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/anuragg-saxenaa)
@@ -77,6 +90,8 @@ Building production-grade **AI agent systems** across the full stack — from pr
 
 ### 🧩 Models & Platforms
 
+<div align="center">
+
 | Category | Tools & Platforms |
 |---|---|
 | **Frontier LLMs** | Claude (Anthropic) · GPT-4o (OpenAI) · Gemini · Hermes (Nous Research) |
@@ -84,15 +99,19 @@ Building production-grade **AI agent systems** across the full stack — from pr
 | **Cloud AI** | AWS Bedrock · Google Vertex AI · Azure OpenAI Service |
 | **Protocols** | MCP (Model Context Protocol) · OpenAI Tool Use · Function Calling |
 
+</div>
+
 ### 🛠️ Agentic Coding Assistants
 
 [![Claude Code](https://img.shields.io/badge/Claude_Code-Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/anuragg-saxenaa)
 [![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/anuragg-saxenaa)
-[![AgCoding Agent](https://img.shields.io/badge/AgCoding_Agent-Agent-orange?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/anuragg-saxenaa)
+[![AgCoding Agent](https://img.shields.io/badge/AgCoding_Agent-Agent-orange?style=for-the-badge)](https://github.com/anuragg-saxenaa)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Open_Source-blue?style=for-the-badge)](https://github.com/anuragg-saxenaa)
 [![Hermes](https://img.shields.io/badge/Hermes_(Nous)-LLM-7B3F9E?style=for-the-badge)](https://github.com/anuragg-saxenaa)
 
 ### 🏗️ Agentic Frameworks & Patterns
+
+<div align="center">
 
 | Framework | Use Case |
 |---|---|
@@ -104,6 +123,8 @@ Building production-grade **AI agent systems** across the full stack — from pr
 | **MCP SDK** | Building production MCP servers & tool integrations |
 | **RAG Pipelines** | Semantic search, embeddings, vector stores (pgvector, Pinecone) |
 
+</div>
+
 ---
 
 ## 🏆 Open Source Contributions
@@ -112,7 +133,6 @@ Building production-grade **AI agent systems** across the full stack — from pr
 [![Stars](https://img.shields.io/badge/Project_Stars-2k%2B-%23FFD700.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuragg-saxenaa)
 
 > 🏅 **Top contributor on a 2,000+ starred open-source project**
-> Active contributor to AI agent applications, MCP servers, and Java tooling
 
 **Contributions span:**
 - 🤖 AI agent app ecosystems (agentic coding, orchestration, memory systems)
@@ -218,11 +238,35 @@ Building production-grade **AI agent systems** across the full stack — from pr
 
 ## 📈 GitHub Stats
 
+<div align="center">
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=anuragg-saxenaa&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/anuragg-saxenaa)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragg-saxenaa&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuragg-saxenaa)
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuragg-saxenaa&theme=github-dark-blue&hide_border=true)](https://github.com/anuragg-saxenaa)
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=anuragg-saxenaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/anuragg-saxenaa)
+
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anuragg-saxenaa&theme=react-dark&hide_border=true&area=true)](https://github.com/anuragg-saxenaa)
+
+</div>
 
 ---
 
@@ -233,12 +277,16 @@ Building production-grade **AI agent systems** across the full stack — from pr
 - 🌐 Working with **GraphQL + gRPC + Spring** for modern API design
 - ☁️ Deploying cloud-native workloads across **GCP / AWS / Azure**
 - 🔬 Contributing to **open-source AI agent apps** (MCP, LangGraph, AgCoding)
-- ☕ Bringing **deep Java/Spring expertise** to AI-native backends
+- ☕ Bringing **13+ years of Java/Spring expertise** to AI-native backends
 - 🏆 **Top contributor** on an open-source project with **2,000+ GitHub stars**
 - 💬 Ask me about **Java · Spring · GraphQL · gRPC · Claude · MCP · AI Agents · Cloud**
 
 ---
 
+<div align="center">
+
 *If you find my work useful, consider giving it a ⭐*
 
 [![Views](https://komarev.com/ghpvc/?username=anuragg-saxenaa&color=brightgreen&style=flat-square)](https://github.com/anuragg-saxenaa)
+
+</div>
