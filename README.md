@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-```typescript
+` ` `typescript
 const anurag = {
   role: "Senior Full-Stack & Cloud-Native Engineer | Java Architect",
   level: "Principal / Staff Engineer",
@@ -35,7 +35,7 @@ const anurag = {
   philosophy: "Solve real problems. Ship fast. Open source everything.",
   openTo: ["Collaborations", "Contributions", "Feedback"],
 };
-```
+` ` `
 
 ---
 
@@ -254,7 +254,7 @@ Building production-grade **AI agent systems** across the full stack — from pr
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=anuragg-saxenaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/anuragg-saxenaa)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=anuragg-saxenaa&theme=onedark&no-frame=true&margin-w=6&column=6)](https://github.com/anuragg-saxenaa)
 
 </div>
 
