@@ -250,11 +250,14 @@ Building production-grade **AI agent systems** across the full stack — from pr
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏅 Profile Summary
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=anuragg-saxenaa&theme=onedark&no-frame=true&margin-w=6&column=6)](https://github.com/anuragg-saxenaa)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuragg-saxenaa&theme=github_dark)](https://github.com/anuragg-saxenaa)
+
+[![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anuragg-saxenaa&theme=github_dark)](https://github.com/anuragg-saxenaa)
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuragg-saxenaa&theme=github_dark)](https://github.com/anuragg-saxenaa)
 
 </div>
 
